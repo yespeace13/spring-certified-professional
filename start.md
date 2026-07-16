@@ -20,3 +20,4 @@ https://docs.spring.io/spring-framework/reference/overview.html
 * https://pages.cs.wisc.edu/~remzi/OSTEP/
 * https://github.com/hasaneyldrm/exercises-dataset
 * https://people.freebsd.org/~lstewart/articles/cpumemory.pdf
+* https://github.com/bilalmohib/ProgrammingBooks/tree/crystal
